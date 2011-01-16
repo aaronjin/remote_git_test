@@ -7,3 +7,5 @@ New feature
 New feature again
 Code change contributed by another developer
 Also worked on this user#1
+some experiment
+learning git internals
